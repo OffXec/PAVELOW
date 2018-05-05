@@ -21,9 +21,9 @@ PAVELOW helps you with your exploiting and vulnerability searching adventures on
 
 3) Vulnerability Lab
 - XSS Crawl/Finder
--CMS Scan
--CMS Vuln Tools
--Admin Bypasser
+- CMS Scan
+- CMS Vuln Tools
+- Admin Bypasser
 (Many others)
 
 That's just to name a few, the rest you'll have to go and enjoy yourself! (;
