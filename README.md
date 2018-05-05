@@ -29,8 +29,8 @@ PAVELOW helps you with your exploiting and vulnerability searching adventures on
 That's just to name a few, the rest you'll have to go and enjoy yourself! (;
 
 #Requirements
--Kali Linux
--ROOT (not root priv user)
+- Kali Linux
+- ROOT (not root priv user)
 
 Any questions or ideas for version 2.0 feel free to let me know.
 
