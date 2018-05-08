@@ -1,11 +1,11 @@
-#PAVELOW Exploit Toolbox.
+# PAVELOW Exploit Toolbox.
 Programmed by Xecurity.
 Language: BASH
 
-**Description:
+# Description:
 PAVELOW helps you with your exploiting and vulnerability searching adventures on KALI Linux by using a few different pre-installed tools among several others that PAVELOW will installed & setup for you(they all can be found right here on Github too). 
 
-#FEATURES
+# FEATURES
 1) Passive Recon Menu
 - DORK OSINT (External FF)
 - Email Harvester
@@ -28,7 +28,7 @@ PAVELOW helps you with your exploiting and vulnerability searching adventures on
 
 That's just to name a few, the rest you'll have to go and enjoy yourself! (;
 
-#Requirements
+# Requirements
 - Kali Linux
 - ROOT (not root priv user)
 
